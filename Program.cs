@@ -41,18 +41,18 @@ namespace onelab
         }
 
 
-        static void QueensSolution(int start, int amount)
+        static void QueensSolution(int x)
         {
             for (int i = 1; i <= N; i++)
             {
-                if (Placement(start, i))
+                if (Placement(x, i))
                 {
-                    board[start] = i;
-                    if (start == N)
+                    board[x] = i;
+                    if (x == N)
                     {
                         PrintPlaced();
                     }
-                    else QueensSolution(start + 1, N);
+                    else QueensSolution(x + 1);
                 }
 
             }
@@ -63,8 +63,8 @@ namespace onelab
         static void Main(string[] args)
         {
             N = 8;
-            board = new int[100];
-            QueensSolution(1, N);
+            board = new int[N+1];
+            QueensSolution(1);
             Console.ReadLine();
         }
     }

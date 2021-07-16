@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\s02ljc\\Downloads\\Telegram Desktop\\onelab 3\\onelab\\onelab.csproj",
+      "projectUniqueName": "C:\\Users\\s02ljc\\Downloads\\Telegram Desktop\\onelab\\onelab\\onelab.csproj",
       "projectName": "onelab",
-      "projectPath": "C:\\Users\\s02ljc\\Downloads\\Telegram Desktop\\onelab 3\\onelab\\onelab.csproj",
+      "projectPath": "C:\\Users\\s02ljc\\Downloads\\Telegram Desktop\\onelab\\onelab\\onelab.csproj",
       "packagesPath": "C:\\Users\\s02ljc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\s02ljc\\Downloads\\Telegram Desktop\\onelab 3\\onelab\\obj\\",
+      "outputPath": "C:\\Users\\s02ljc\\Downloads\\Telegram Desktop\\onelab\\onelab\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\s02ljc\\AppData\\Roaming\\NuGet\\NuGet.Config",
