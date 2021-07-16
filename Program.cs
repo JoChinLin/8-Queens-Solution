@@ -1,13 +1,12 @@
 ﻿using System;
 
-namespace Telegram_Desktop
+namespace onelab
 {
     class Program
     {
         static int N;
         static int[] board;
-        static int cnt = 0;
-        static void PrintPlaced(int[] board)
+        static void PrintPlaced()
         {
             Console.WriteLine("--Solution--");
             Console.WriteLine();
@@ -42,7 +41,7 @@ namespace Telegram_Desktop
         }
 
 
-        static int Queens(int start, int amount)
+        static void QueensSolution(int start, int amount)
         {
             for (int i = 1; i <= N; i++)
             {
@@ -51,14 +50,12 @@ namespace Telegram_Desktop
                     board[start] = i;
                     if (start == N)
                     {
-                        cnt++;
-                        PrintPlaced(board);
+                        PrintPlaced();
                     }
-                    else Queens(start + 1, N);
+                    else QueensSolution(start + 1, N);
                 }
 
             }
-            return cnt;
 
         }
 
@@ -67,8 +64,8 @@ namespace Telegram_Desktop
         {
             N = 8;
             board = new int[100];
-            var cnt = Queens(1, N);
-            System.Console.WriteLine($"\n\n{cnt} answers.");
+            QueensSolution(1, N);
+            Console.ReadLine();
         }
     }
 }
