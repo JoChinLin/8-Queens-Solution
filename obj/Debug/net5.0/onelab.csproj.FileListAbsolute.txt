@@ -1,0 +1,15 @@
+C:\Users\s02ljc\Downloads\Telegram Desktop\onelab 3\onelab\bin\Debug\net5.0\onelab.exe
+C:\Users\s02ljc\Downloads\Telegram Desktop\onelab 3\onelab\bin\Debug\net5.0\onelab.deps.json
+C:\Users\s02ljc\Downloads\Telegram Desktop\onelab 3\onelab\bin\Debug\net5.0\onelab.runtimeconfig.json
+C:\Users\s02ljc\Downloads\Telegram Desktop\onelab 3\onelab\bin\Debug\net5.0\onelab.runtimeconfig.dev.json
+C:\Users\s02ljc\Downloads\Telegram Desktop\onelab 3\onelab\bin\Debug\net5.0\onelab.dll
+C:\Users\s02ljc\Downloads\Telegram Desktop\onelab 3\onelab\bin\Debug\net5.0\ref\onelab.dll
+C:\Users\s02ljc\Downloads\Telegram Desktop\onelab 3\onelab\bin\Debug\net5.0\onelab.pdb
+C:\Users\s02ljc\Downloads\Telegram Desktop\onelab 3\onelab\obj\Debug\net5.0\onelab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s02ljc\Downloads\Telegram Desktop\onelab 3\onelab\obj\Debug\net5.0\onelab.AssemblyInfoInputs.cache
+C:\Users\s02ljc\Downloads\Telegram Desktop\onelab 3\onelab\obj\Debug\net5.0\onelab.AssemblyInfo.cs
+C:\Users\s02ljc\Downloads\Telegram Desktop\onelab 3\onelab\obj\Debug\net5.0\onelab.csproj.CoreCompileInputs.cache
+C:\Users\s02ljc\Downloads\Telegram Desktop\onelab 3\onelab\obj\Debug\net5.0\onelab.dll
+C:\Users\s02ljc\Downloads\Telegram Desktop\onelab 3\onelab\obj\Debug\net5.0\ref\onelab.dll
+C:\Users\s02ljc\Downloads\Telegram Desktop\onelab 3\onelab\obj\Debug\net5.0\onelab.pdb
+C:\Users\s02ljc\Downloads\Telegram Desktop\onelab 3\onelab\obj\Debug\net5.0\onelab.genruntimeconfig.cache
